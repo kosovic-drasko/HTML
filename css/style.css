@@ -1,0 +1,15 @@
+.moj_div {
+  height: auto;
+  width: 150px;
+  background-color: aqua;
+  display:flexbox;
+}
+ #prvi {
+  border-style: solid;
+  padding-bottom: auto;
+}
+#drugi {
+  border-style: solid;
+} 
+
+ 
